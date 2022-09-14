@@ -3,7 +3,7 @@
  * main - Entry point
  *
  * Return: 0 Alwarys (Success)
- */
+ */;
 int main(void) 
 {
   _putchar('_');
